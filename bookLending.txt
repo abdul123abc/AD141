@@ -1,0 +1,108 @@
+Respondent: Maria Hernandez•20 years old•Part-time Bookstore Clerk & University Student•on Build a platform (website) where people(student) can borrow/lend one another books, there should be a date agreed on by both the borrower and the lender to return the book, there should be categories of books to make searching easier
+
+Background: Maria is a university student in Seoul working part-time at a bookstore. She loves reading fiction and fantasy novels and is always looking for new books to read. She's environmentally conscious and appreciates the idea of sharing books to reduce waste.
+Unique Perspective: Maria would find a book-sharing platform very appealing. She'd be interested in features that allow for easy searching by genre and author, as well as a system for rating and reviewing books. She'd also value a secure messaging system for communication with other users.
+
+
+1. Tell me a little about your experience as a part-time bookstore clerk and a university student. What's a typical day like for you?
+   Purpose: Ice-breaker question to establish rapport and understand Maria's daily life.
+
+2. What are some of your favorite things to do in your free time?
+   Purpose: Warm-up question to understand her interests and hobbies, potentially revealing clues about her reading habits.
+
+3. How often do you borrow or lend books to friends or classmates?
+   Purpose: Explores Maria's current book-sharing behaviors and frequency.
+
+4. Can you describe your typical process for finding new books to read? Where do you usually look?
+   Purpose: Explores Maria's current book discovery process, identifying potential pain points and opportunities.
+
+5. What genres of books do you enjoy reading the most, and why?
+   Purpose: Explores Maria's reading preferences to understand her needs and tailor the platform accordingly.
+
+6. What are some of the biggest challenges you face when trying to find new books to read?
+   Purpose: Identifies key pain points related to finding new books, setting the stage for solution exploration.
+
+7. Have you ever had a negative experience borrowing or lending books to someone? If so, what happened?
+   Purpose: Uncovers negative experiences to understand potential platform requirements for trust and security.
+
+8. What are your biggest frustrations when it comes to managing your reading list and borrowing/lending books?
+   Purpose: Explores frustrations related to book management, highlighting areas for improvement in the platform.
+
+9. What aspects of borrowing or lending books cause you the most inconvenience or stress?
+   Purpose: Focuses on specific inconveniences to pinpoint areas where the platform can offer solutions.
+
+10. Do you currently use any other platforms or methods for borrowing or lending books? If so, what are they and what are their pros and cons?
+   Purpose: Explores existing solutions and their limitations, providing a benchmark for the proposed platform.
+
+11. Have you ever considered using a book-sharing app or website? What factors would influence your decision to use one?
+   Purpose: Gauges Maria's interest and identifies factors influencing adoption of a book-sharing platform.
+
+12. What features would be essential for a book-sharing platform to be successful in your opinion?
+   Purpose: Identifies essential features from the user's perspective, guiding platform design.
+
+13. If you were designing a book-sharing platform, what features would you include to make it easy to find books based on genre and author?
+   Purpose: Co-creation question focusing on search functionality, leveraging Maria's expertise as a bookstore clerk.
+
+14. Imagine you're designing the messaging system for this platform. What features would you include to ensure secure and efficient communication between borrowers and lenders?
+   Purpose: Co-creation question focusing on communication, a crucial aspect of a book-sharing platform.
+
+15. Let's say you could add one unique feature to a book-sharing platform that doesn't currently exist. What would it be and why?
+   Purpose: Open-ended co-creation question encouraging innovative thinking and unique feature suggestions.
+  
+  
+  
+   
+  Hello! I am Maria Hernandez
+
+Q: How often do you borrow or lend books to friends or classmates?
+A: Not very often, actually. I mostly buy my own books, especially since I'm always looking for specific fantasy novels. Occasionally a friend will borrow one of mine, but it's rare. I guess a platform like this would make it easier to find books I want to read without buying them all.
+
+Q: Can you describe your typical process for finding new books to read? Where do you usually look?
+A: I usually browse the shelves at the bookstore where I work – it's a great perk! I also check out online reviews and recommendations on Goodreads, mostly looking for fantasy and fiction. Sometimes I'll ask friends for suggestions too, especially if they know I'm looking for something specific.
+
+Q: Have you ever had a negative experience borrowing or lending books to someone? If so, what happened?
+A: Um, yeah, actually. I lent a really old copy of *The Name of the Wind* to a friend last semester, and she… well, let’s just say it took a lot longer than we agreed to get it back, and it came back a little… worse for wear. It was pretty frustrating, especially since it was a special edition. It made me a bit hesitant to lend out books since then.
+
+Q: What are your biggest frustrations when it comes to managing your reading list and borrowing/lending books?
+A: Hmm, that's a good question. I guess my biggest frustration is keeping track of everything – what I want to read next, what I've borrowed, and when it's due back. Sometimes I lose track and feel bad if a book is overdue. It would be much easier if there was a system to help manage all that.
+
+Q: What aspects of borrowing or lending books cause you the most inconvenience or stress?
+A: Hmm, that's a good question. I guess the biggest inconvenience is just coordinating schedules with someone to pick up and drop off the book. Finding a time that works for both of us can be tricky, especially since my part-time job hours are pretty unpredictable. It would be nice if there was a simpler way to manage that.
+
+Q: Do you currently use any other platforms or methods for borrowing or lending books? If so, what are they and what are their pros and cons?
+A: Um, not really. I sometimes borrow books from friends, but it's pretty informal. The main problem is remembering who has what and when it's due back – it's a bit chaotic. A more organized system would definitely be helpful.
+
+Q: 1. Have you ever considered using a book-sharing app or website? What factors would influence your decision to use one ,2. What features would be essential for a book-sharing platform to be successful in your opinion 3. Imagine you're designing the messaging system for this platform. What features would you include to ensure secure and efficient communication between borrowers and lenders, 4. Let's say you could add one unique feature to a book-sharing platform that doesn't currently exist. What would it be and why???
+A: Hmm, I haven't actually used a book-sharing app before. I mostly just borrow from friends or the library. But a platform like that sounds really convenient, especially if it had a good search function. For it to be successful, I think it needs easy searching by genre and author, definitely. And a rating/review system would be great – I always check those before buying a book. Plus, a way to easily see who's nearby would be helpful. If I were designing the messaging system, I'd want it to be private, like end-to-end encrypted, so our conversations stay between the borrower and lender. Maybe even a way to schedule reminders about due dates within the messages. As for a unique feature… that’s a tough one. Maybe some kind of built-in book recommendation system based on your borrowing history and ratings? It could help people discover new books they might like, which is always fun.
+
+   
+   
+   
+   
+   
+   
+   
+   Key Quotes:
+"I lent a really old copy of *The Name of the Wind* to a friend last semester, and she… well, let’s just say it took a lot longer than we agreed to get it back, and it came back a little… worse for wear."
+"my biggest frustration is keeping track of everything –  what I want to read next, what I've borrowed, and when it's due back."
+"the biggest inconvenience is just coordinating schedules with someone to pick up and drop off the book.  Finding a time that works for both of us can be tricky"
+
+Key Insights:
+Borrowing and lending books can lead to negative experiences, such as late returns and damaged books.
+Managing reading lists and tracking borrowed/lent books is a significant source of frustration.
+Coordinating book exchanges with others is inconvenient due to scheduling conflicts.
+
+Value Hierarchy Mapping:
+Convenience
+Organization
+Trust/Security
+
+Pain Points:
+Relevant Quotes:
+"It was pretty frustrating, especially since it was a special edition."
+"Sometimes I lose track and feel bad if a book is overdue."
+"Finding a time that works for both of us can be tricky, especially since my part-time job hours are pretty unpredictable."
+Key Findings:
+Damaged or lost books cause significant frustration.
+Difficulty tracking due dates leads to stress and guilt.
+Scheduling conflicts create inconvenience in coordinating book exchanges.
